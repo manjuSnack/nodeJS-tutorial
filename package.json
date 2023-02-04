@@ -7,7 +7,12 @@
     "test__002": "nodemon --exec node example/**/002*.js",
     "test__003": "nodemon --exec node example/**/003*.js",
     "test__004": "nodemon --exec node example/**/004*.js",
-    "test__005": "nodemon --exec node example/**/005*.js"
+    "test__005": "nodemon --exec node example/**/005*.js",
+    "test__006": "nodemon --exec node example/**/006*.js",
+    "test__007": "nodemon --exec node example/**/007*.js",
+    "test__008": "nodemon --exec node example/**/008*.js",
+    "test__009": "nodemon --exec node example/**/009*.js",
+    "test__010": "nodemon --exec node example/**/010*.js"
   },
   "keywords": [],
   "author": "",
